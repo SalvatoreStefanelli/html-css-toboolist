@@ -7,3 +7,40 @@
 h1 {
     display: inline-block;
 }
+
+main {
+    background-color: rgb(200, 200, 235);
+}
+
+button {
+    margin: 10px;
+}
+
+.task {
+    background-color: rgb(57, 57, 202);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.section {
+    color: lightgrey;
+    padding: 5px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+.new_task {
+    font-size: 20px;
+}
+
+.new_task_editor {
+    background-color: rgb(43, 84, 215);
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px;
+}
