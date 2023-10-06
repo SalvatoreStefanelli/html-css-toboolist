@@ -88,3 +88,19 @@ section {
 .upcoming {
     font-size: 20px;
 }
+
+.website {
+    background-color: rgb(172, 76, 166);
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.sales {
+    background-color: greenyellow;
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px; 
+}
