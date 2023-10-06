@@ -37,10 +37,54 @@ section {
     font-size: 20px;
 }
 
-.new_task_editor {
+.editor {
     background-color: rgb(43, 84, 215);
     color: white;
     padding: 6px;
     border-radius: 20px;
     font-size: 12px;
+}
+
+.today {
+    font-size: 20px;
+}
+
+.first_row {
+    margin-bottom: 10px;
+}
+
+.goals {
+    background-color: rgb(182, 27, 182);
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.second_row {
+    margin-bottom: 10px;
+}
+
+.recruiting {
+    background-color: rgb(27, 110, 182);
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.third_row {
+    margin-bottom: 10px;
+}
+
+.mobile {
+    background-color: orangered;
+    color: white;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.upcoming {
+    font-size: 20px;
 }
